@@ -1,0 +1,21 @@
+*{
+    background-color: #EAE7DC;
+    font-family: Helvetica;
+    box-sizing: border-box;
+}
+
+header{
+    height: 40px;
+}
+nav{
+    float: right;
+}
+
+.logo{
+    width: 60px;
+    height: 36px;
+}
+
+.menu-options{
+    padding-right: 70px;
+}
